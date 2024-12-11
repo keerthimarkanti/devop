@@ -1,0 +1,9 @@
+Pipeline{
+ Agentany{
+stages{
+step{
+echo "HELLO World"
+}
+}
+}
+}
